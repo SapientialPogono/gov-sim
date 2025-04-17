@@ -1,0 +1,7 @@
+Government Simulator
+
+Create your own government from scratch and simulate its effects on the area and it's people.
+
+Federalism Type: Balance multi-state relations. Create a state government or the federal overarching. 
+  Constitutional
+  
