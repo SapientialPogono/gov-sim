@@ -11,6 +11,7 @@ Federalism Type: Balance multi-state relations. Create a state government or the
 This will be the prototypes main goal to set all these features up
 
 Influence Values:  //Based on bars that are affected by poicy during simulation. Think 'Reigns' but a bit more complex and stacking choices.
+
 	Economical
 		Export Tax
 		Import Tax
@@ -32,9 +33,10 @@ Influence Values:  //Based on bars that are affected by poicy during simulation.
 		Military S. Loyalty
 
 
-Democracy: Large Freedom boost (More intervention for the ruler), Significantly less likely to revolt (Instead large sweeping changes may start passing instead), More fluctuating and can cause citizen fatigue
-Oligarchy: Negative Freedom boost (Less allowed intervention), Average likelyhood to revolt (Influenced based on policy), Strong pushes for low Ex. and Im. Taxation from the oligarchy members (Tarrifs)
-Monarchal: Large Negative Freedom boost (People have very little to no say in government), Hightened likelyhood to revolt (Influenced based on policy), Needs strong military to keep afloat
-Republic: Freedom Boost (Interventions will happen for the ruler), Less likely to revolt (People will vote more radical members of Leg. to change government)
- 
+Democracy:	 Large Freedom boost (More intervention for the ruler), Significantly less likely to revolt (Instead large sweeping changes may start passing instead), More fluctuating and can cause citizen fatigue
+Oligarchy:	 Negative Freedom boost (Less allowed intervention), Average likelyhood to revolt (Influenced based on policy), Strong pushes for low Ex. and Im. Taxation from the oligarchy members (Tarrifs)
+Monarchal:	 Large Negative Freedom boost (People have very little to no say in government), Hightened likelyhood to revolt (Influenced based on policy), Needs strong military to keep afloat
+Republic:	 Freedom Boost (Interventions will happen for the ruler), Less likely to revolt (People will vote more radical members of Leg. to change government)
+Custom: 	 Add later... (After Prototype)
+
   
