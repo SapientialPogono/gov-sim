@@ -2,8 +2,15 @@ Government Simulator
 
 Create your own government from scratch and simulate its effects on the area and it's people.
 
-Federalism Type: Balance multi-state relations. Create a state government or the federal overarching. 
-  Constitutional
-  Dictatorship
-  
+Federalism Type: Balance multi-state relations. Create a state government or the federal overarching. //Work on State first as a baseline.
+  Constitutional Base (Have the basis of the government be placed upon a certain written set of rules)
+	  Democracy, Oligarchy, Dictatorship/Monarchal, Republic(Democratic or Pure), (Custom)? //Take all values that affect nation and allow the user to craft their own form of governemnt and change values/multipliers (Less realistic, More sandboxy)
+  'President' Base (Leader always has final say) //Option allowing for most sandbox experience, less factors to stop you (Revolts, rebellions, and lawful or unlawful protests may still occur)
+		Monarchal/Dictator, Voted in
+
+This will be the prototypes main goal to set all these features up
+
+Influence Values:
+
+
   
