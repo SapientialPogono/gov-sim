@@ -4,13 +4,37 @@ Create your own government from scratch and simulate its effects on the area and
 
 Federalism Type: Balance multi-state relations. Create a state government or the federal overarching. //Work on State first as a baseline.
   Constitutional Base (Have the basis of the government be placed upon a certain written set of rules)
-	  Democracy, Oligarchy, Dictatorship/Monarchal, Republic(Democratic or Pure), (Custom)? //Take all values that affect nation and allow the user to craft their own form of governemnt and change values/multipliers (Less realistic, More sandboxy)
+	Democracy, Oligarchy, Dictatorship/Monarchal, Republic, (Custom)? //Take all values that affect nation and allow the user to craft their own form of governemnt and change values/multipliers (Less realistic, More sandboxy)
   'President' Base (Leader always has final say) //Option allowing for most sandbox experience, less factors to stop you (Revolts, rebellions, and lawful or unlawful protests may still occur)
-		Monarchal/Dictator, Voted in
+	Monarchal/Dictator, Voted in
 
 This will be the prototypes main goal to set all these features up
 
-Influence Values:
+Influence Values:  //Based on bars that are affected by poicy during simulation. Think 'Reigns' but a bit more complex and stacking choices.
+	Economical
+		Export Tax
+		Import Tax
+		Internal Shopping Tax
+		CoL (Cost of Living) 
+		Job Market
+		Homeless/# of people needing intervention (Food, housing, can be decided how you deal with this issue)
+	Societal
+		Freedom //Possibly expand deeper?
+		Freedom Wants (The less Freedom your Gov. gives the more this bar can and likely will raise. This influences protests and revolts)
+		Gov. Type Popularity
+		Ruler Popularity
+		Gov Popularity (Members of Government)
+		//Def need more
+	Internal
+		Military #'s
+		Military L. Aprv.
+		Military S. Aprv.
+		Military S. Loyalty
 
 
+Democracy: Large Freedom boost (More intervention for the ruler), Significantly less likely to revolt (Instead large sweeping changes may start passing instead), More fluctuating and can cause citizen fatigue
+Oligarchy: Negative Freedom boost (Less allowed intervention), Average likelyhood to revolt (Influenced based on policy), Strong pushes for low Ex. and Im. Taxation from the oligarchy members (Tarrifs)
+Monarchal: Large Negative Freedom boost (People have very little to no say in government), Hightened likelyhood to revolt (Influenced based on policy), Needs strong military to keep afloat
+Republic: Freedom Boost (Interventions will happen for the ruler), Less likely to revolt (People will vote more radical members of Leg. to change government)
+ 
   
