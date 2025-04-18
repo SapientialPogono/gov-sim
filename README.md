@@ -2,8 +2,9 @@
 
 ## Create your own government from scratch and simulate its effects on the area and it's people.
 
-Federalism Type: Balance multi-state relations. Create a state government/
-    Constitutional Base (Have the basis of the government be placed upon a certain written set of rules that are higher than any ruler)
+Federalism Type: Balance multi-state relations. Create a state government
+
+   Constitutional Base (Have the basis of the government be placed upon a certain written set of rules that are higher than any ruler)
 	      Democracy, Oligarchy, Dictatorship/Monarchal, Republic
 
 This will be the prototypes main goal to set all those features up
